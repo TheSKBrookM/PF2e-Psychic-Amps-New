@@ -7,7 +7,7 @@
       "name": "Tikael"
     }
   ],
-  "url": "https://github.com/Vesselchuck/PF2e-Psychic-Amps",
+  "url": "https://github.com/TheSKBrookM/PF2e-Psychic-Amps-New",
   "version": "1.0",
   "compatibility": {
     "minimum": "9",
@@ -38,8 +38,8 @@
     ]
   },
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Vesselchuck/PF2e-Psychic-Amps/master/module.json",
-  "download": "https://github.com/Vesselchuck/PF2e-Psychic-Amps/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/TheSKBrookM/PF2e-Psychic-Amps-New/main/PF2e-Psychic-Amps-main/module.json",
+  "download": "https://github.com/TheSKBrookM/PF2e-Psychic-Amps-New/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
   "minimumSystemVersion": "3.13.0",
